@@ -38,6 +38,4 @@ public class Results {
         double segundos = duration / 1_000_000_000.0;
         return "Results [nombre=" + nombre + ", duration=" + duration + "ns, " + segundos + "s, sample=" + sample + "]";
     }
-
-    
 }
