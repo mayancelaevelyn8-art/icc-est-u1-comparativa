@@ -43,5 +43,3 @@ Tiempos en segundos:
 | Arrays.sort | 0,0012 | 0,0031 | 0,0060 |
 | Arrays.sort Comparator | 0,0061 | 0,0117 | 0,0299 |
 | Collectors | 0,0135 | 0,0327 | 0,0287 |
-
-El detalle está en [investigacion.md](investigacion.md).
