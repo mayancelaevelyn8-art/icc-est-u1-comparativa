@@ -16,7 +16,6 @@ public class App {
         //100000
         int[] list3 = g.generate(100000);
 
-        /// C
         int[] list1c1 = list1.clone();
         int[] list1c2 = list1.clone();
         int[] list1c3 = list1.clone();
